@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ezjq/mm2/refs/heads/main/DupeGui.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/etherhub1/Mm2-/refs/heads/main/Mm2-item-spawner"))()
