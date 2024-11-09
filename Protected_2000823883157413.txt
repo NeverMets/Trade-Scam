@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OGDuper/MM2Dupe/refs/heads/main/Script", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ezjq/mm2/refs/heads/main/DupeGui.txt"))()
